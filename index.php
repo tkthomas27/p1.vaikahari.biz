@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 	<head>
 		<title>Welcome to P1</title>
