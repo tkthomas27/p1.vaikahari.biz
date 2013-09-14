@@ -1,3 +1,4 @@
+/*Adds background image but still changes size depending on size of screen*/
 html {
   background: url(../img/IMG_0742.JPG) no-repeat center center fixed;
   background-size: cover;
@@ -12,6 +13,7 @@ h3 {
 	text-decoration: bold;
 }
 
+/*Adds text but stil renders on screen in wrong places on different size of screen*/
 #name {
 	width: 400px;
 	height: 30px;

@@ -10,9 +10,7 @@
 <body>
 
 	<div id="name">
-		<h1>
-		Timothy Kyle Thomas
-		</h1>
+		<h1>Timothy Kyle Thomas</h1>
 	</div>
 
 	<div id="bio">
