@@ -14,6 +14,35 @@
 		</h1>
 	</div>
 
+	<div>
+		<h3>Hometown</h3>
+			<p>Charlotte, NC</p>
+
+		<h3>Code Editor</h3>
+			<p>Sublime Text 2</p>
+
+		<h3>Employment</h3>
+			<p>Research Associate,
+			<br>
+			Harvard Business School</p>
+	</div>
+
+	<div>
+		<h3>Education</h3>
+			<p>Furman University<br>
+			2009</p>
+
+			<p>Harvard Divinity School<br>
+			2012</p>
+	</div>
+
+	<div>
+		<h3>Interests</h3>
+			Medieval Kashmiri Poetry<br>
+			Football<br>
+			Rome<br>
+			Financial Reports<br>
+			College Basketball
 
 </body>
 </html>
