@@ -3,7 +3,7 @@
 	<head>
 		<title>Welcome to P1</title>
 		<meta charset="utf-8" />
-		<link rel="stylesheet" href="css\style.css">
+		<link rel="stylesheet" href="..\css\style.css">
 	</head>
 
 
