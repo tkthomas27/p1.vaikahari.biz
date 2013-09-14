@@ -3,18 +3,19 @@
 	<head>
 		<title>Welcome to P1</title>
 		<meta charset="utf-8" />
+		<link rel="stylesheet" href="css\style.css">
 	</head>
 
 
 <body>
 
-	<div>
+	<div id="name">
 		<h1>
 		Timothy Kyle Thomas
 		</h1>
 	</div>
 
-	<div>
+	<div id="bio">
 		<h3>Hometown</h3>
 			<p>Charlotte, NC</p>
 
@@ -27,7 +28,7 @@
 			Harvard Business School</p>
 	</div>
 
-	<div>
+	<div id="edu">
 		<h3>Education</h3>
 			<p>Furman University<br>
 			2009</p>
@@ -36,7 +37,7 @@
 			2012</p>
 	</div>
 
-	<div>
+	<div id="interests">
 		<h3>Interests</h3>
 			Medieval Kashmiri Poetry<br>
 			Football<br>
